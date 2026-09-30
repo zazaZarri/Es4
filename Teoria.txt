@@ -1,0 +1,5 @@
+Working Tree: cartella fisica sul pc, dove hai i tuoi file.
+
+Staging area: Prepari le modifiche per poter essere salvate, lo fai con git add
+
+Repository: la local tutte le modifiche vengono salvate con uno storico localmente, mentre per la remote è la stessa cosa ma in condivisione sul web, quindi puoi aprirla in qualunque dispositivo.
