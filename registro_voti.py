@@ -7,7 +7,7 @@ class RegistroVoti:
             self.voti.append(voto)
             print("Voto aggiunto.")
         else:
-            print("Voto non valido")
+            print("Voto non valido.")
 
     def calcola_media(self):
         if not self.voti:
